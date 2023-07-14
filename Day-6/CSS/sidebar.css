@@ -1,0 +1,56 @@
+/* background-color:darkgray;
+background-color: #22242A
+color: white;*/
+body{
+    background-image: url("../Assets/home1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.content{
+    color: white;
+    margin-left: 20%;
+}
+.nav
+{
+    display: flex;
+}
+.nav1
+{
+    float: left;
+    /* position:'relative'; */
+    top:'-10px';
+    padding-left: 30px;
+}
+.nav2
+{
+    float: right;
+    margin-left: 280px;
+    margin-bottom: 20px;
+    /* position:'relative'; */
+    top:'-10px';
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+ }
+.nav-tabs
+{
+    display: grid;
+    grid-template-columns: repeat(4,auto);
+    grid-gap: 10px;
+    list-style: none;
+    text-align: center;
+    margin-right: 2rem;
+    width: 70vw;
+    justify-content: end;
+}
+.link-active
+{
+    color: white;
+    text-decoration: none;
+    padding: 0.5rem 1rem;
+}
+.link-active:hover
+{
+    background-color:darkgray;
+    border-radius: 4px;
+    transition: all 0.2s ease-out;
+}
