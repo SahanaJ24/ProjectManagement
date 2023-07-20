@@ -1,0 +1,11 @@
+.resform-groupcol-md-4{
+  border-color: black;
+  background-color: rgb(201, 229, 241);
+  padding: 3%;
+  width: 20%;
+  padding-left: 2%;
+  margin-left: 5%;
+  height: 50vh;
+  box-shadow: 8px 8px rgb(213, 211, 211);
+  border-radius: 1%;
+}

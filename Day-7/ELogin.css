@@ -1,0 +1,39 @@
+.Elog-container{
+    background-color: rgb(238, 237, 236);
+    width: 100%;
+    height: 100vh;
+    position: fixed;
+}
+.Elog-left{
+    width: 50%;
+    padding-left: 15%;
+}
+
+.Elog-right{
+    background-image: url("../Assets/login3.jpg");
+    background-repeat: no-repeat;
+    width: 70%;
+    margin-top: 5%;
+    margin-left: 4%;
+    
+} 
+.Elog-outer{
+    background-color:white;
+    margin-top: 5%;
+    margin-left: 15%;
+    margin-right: 10%;
+    height: 80vh;
+    display: flex; 
+    box-shadow: 8px 8px rgb(206, 204, 204);
+    width: 70%;
+    border-radius: 1%;
+}
+.Elog-field{
+    font-size:large;
+}
+.Elog-messagesuccess{
+    color: rgb(2, 158, 2);
+}
+.Elog-error{
+    color: red;
+}

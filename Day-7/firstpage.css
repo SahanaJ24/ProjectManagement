@@ -1,0 +1,53 @@
+.firstall{
+    background-color: rgb(255, 255, 255);
+    height: 100vh;
+    position: fixed;
+    width: 100%;
+}
+.firstinner{
+    background-color: rgb(255, 255, 255);
+    height: 80vh;
+    width: 100%;
+    margin-top: 10%;
+
+}
+.actors{
+    background-color: rgb(255, 255, 255);
+    width: 60%;
+    height: 70vh;
+    display: flex;
+    margin-left: 24%;
+
+}
+.actor1{
+    background-repeat: no-repeat;
+    width: 50%;
+    height: 50vh;
+}
+.actor2{
+    background-repeat: no-repeat;
+    width: 50%;
+    height: 50vh;
+}
+.first-button2{
+    background-image: url("../Assets/vector1.jpg");
+    background-repeat: no-repeat;
+    width: 71%;
+    height: 53vh;
+}
+
+.first-button1{
+    background-image: url("../Assets/vector3.jpg");
+    background-repeat: no-repeat;
+    width: 71%;
+    height: 53vh;
+}
+.first-div{
+    text-align: center;
+    font-size: larger;
+    margin-right: 25%;
+}
+.first-button{
+    background-color: rgb(255, 255, 255);
+    font-size: larger;
+}
