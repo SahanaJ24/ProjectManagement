@@ -1,0 +1,26 @@
+.form-groupcol-md-4{
+    border-color: black;
+    /* background-color: rgb(201, 229, 241); */
+    background-color: rgb(247, 247, 247);
+
+    padding: 3%;
+    width: 40%;
+    padding-left: 8%;
+    margin-left: 24%;
+    box-shadow: 8px 8px rgb(213, 211, 211);
+    border-radius: 1%;
+}
+.emp-row{
+    background-color: rgb(61, 44, 101);
+    width: 100%;
+    height:auto;
+}
+.mt-3mb-4fw-bold{
+    font-size: xx-large;
+    font-weight: bold;
+}
+.emp-entire{
+    background-color: rgb(61, 44, 101);
+    width: 100%;
+    height:100vh;
+}
