@@ -1,0 +1,58 @@
+.firstall{
+    height: 100vh;
+    position: fixed;
+    width: 100%;
+    background-image: url("../Assets/homebg.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    opacity: 90%;
+    
+}
+.firstinner{
+
+    height: 80vh;
+    width: 100%;
+    margin-top: 10%;
+
+}
+.actors{
+    width: 60%;
+    height: 70vh;
+    display: flex;
+    margin-left: 24%;
+
+}
+.actor1{
+    background-repeat: no-repeat;
+    width: 50%;
+    height: 40vh;
+}
+.actor2{
+    background-repeat: no-repeat;
+    width: 50%;
+    height: 50vh;
+}
+.first-button2{
+    background-image: url("../Assets/vector1.jpg");
+    background-repeat: no-repeat;
+    width: 71%;
+    height: 55vh;
+}
+
+.first-button1{
+    background-image: url("../Assets/vector3.jpg");
+    background-repeat: no-repeat;
+    width: 71%;
+    height: 55vh;
+}
+.first-div{
+    text-align: center;
+    font-size: larger;
+    margin-right: 25%;
+}
+.first-button{
+    background-color: rgb(51, 23, 58);
+    font-size: larger;
+    border-color: rgb(167, 167, 167);
+    color: white;
+}

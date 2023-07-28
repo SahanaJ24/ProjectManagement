@@ -1,0 +1,16 @@
+.home-menu{
+    background-color: rgb(27, 36, 87);
+    /* background-color: rgb(148, 94, 28); */
+    color: white;
+    width: 15%;
+    font-size: large;
+    border-color: black;
+
+}
+.home-header{
+    background-color: rgb(22, 30, 74);
+    /* background-color: rgb(56, 114, 131); */
+    border-color: black;
+    border: black;
+
+}

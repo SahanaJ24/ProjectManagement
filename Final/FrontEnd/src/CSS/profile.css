@@ -1,0 +1,51 @@
+.pro-entire{
+    background-color: rgb(97, 38, 103);
+    height: 100vh;
+    position: fixed;
+    width: 100%;
+}
+.pro-container{
+    background-color: rgb(247, 247, 247);
+    height: 93vh;
+    margin-left: 16%;
+    margin-top: 1.5%;
+    width: 67%;
+}
+.pro-left{
+    width: 50%;
+    float: left;
+    height: 100%;
+}
+.pro-right{
+    width: 50%;
+    float: right;
+    height: 100%;
+}
+.pro-head{
+    font-size: xx-large;
+    text-align: center;
+    font-weight: bold;
+}
+.pro-lbox{
+    margin-left: 30%;
+    margin-top: 4%;
+}
+.pro-rbox{
+    margin-left: 10%;
+    margin-top: 12%;
+
+}
+.pro-input{
+    width: 60%;
+    height: 4vh;
+    
+}
+.pro-button{
+    background-color:rgb(97, 38, 103);
+    color: white;
+    width: 30%;
+    height: 6vh;
+    border-color: rgb(97, 38, 103);
+    margin-left: 0%;
+    border-radius:6%
+}
